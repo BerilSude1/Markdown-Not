@@ -25,5 +25,13 @@ Yıldız ve tire aynı işlemi yapar.
 **Birden Fazla Yıldız Kullanımı**
 * *italik* (Tek yıldız)
 * **bold** (İki yıldız)
-* ***bolduitalik*** (Üç yıldız)
+* ***bolditalik*** (Üç yıldız)
 
+**Link Yazı**
+Köşeli parantezde link atanacak kelime yazar.
+Parantezde link yazar.
+[Google'a Gitmek İçin Tıklayınız](https://google.com))
+
+**Image/Gorsel:
+![Açıklama Bilgisi ](url)
+![Lorem Picum](https://picsum.photos/200/300)
