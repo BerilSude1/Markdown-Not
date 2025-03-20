@@ -20,4 +20,10 @@ Liste elemanları - :
 - Eleman 4
 - Eleman 5
 
-_Eleman 6
+Yıldız ve tire aynı işlemi yapar.
+
+**Birden Fazla Yıldız Kullanımı**
+* *italik* (Tek yıldız)
+* **bold** (İki yıldız)
+* ***bolduitalik*** (Üç yıldız)
+
