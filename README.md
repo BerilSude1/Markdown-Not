@@ -32,6 +32,6 @@ Köşeli parantezde link atanacak kelime yazar.
 Parantezde link yazar.
 [Google'a Gitmek İçin Tıklayınız](https://google.com))
 ----------------------------------------------------------------------------
-**Image/Gorsel:
+**Image/Gorsel:**
 [açıklama](url)
 ![Lorem Picsum](https://picsum.photos/200/300)
