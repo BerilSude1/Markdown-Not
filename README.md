@@ -33,5 +33,5 @@ Parantezde link yazar.
 [Google'a Gitmek İçin Tıklayınız](https://google.com))
 
 **Image/Gorsel:
-![Açıklama Bilgisi ](url)
+[açıklama](url)
 ![Lorem Picum](https://picsum.photos/200/300)
